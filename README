@@ -1,0 +1,9 @@
+# run a docker image with repo client for TE demos
+# first run build the docker image
+# every time you exit the container and all of its storage are erased...
+
+# ./run-repo-client.sh
+# conda reop login --username <you> --password <your password>
+# conda search -c <you> --override-channels 
+
+
